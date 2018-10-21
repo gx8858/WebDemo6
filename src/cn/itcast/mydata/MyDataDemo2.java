@@ -14,9 +14,7 @@ import org.junit.Test;
 import cn.itcast.utils.MyJdbcUtil;
 
 /**
- * 音乐保存到数据库中
- * @author Administrator
- *
+ * 音乐文件保存到数据库中
  */
 public class MyDataDemo2 {
 	
