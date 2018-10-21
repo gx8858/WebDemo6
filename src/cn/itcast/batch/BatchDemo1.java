@@ -9,8 +9,6 @@ import cn.itcast.utils.MyJdbcUtil;
 
 /**
  * 想数据库中添加1000条数据
- * @author Administrator
- *
  */
 public class BatchDemo1 {
 	
