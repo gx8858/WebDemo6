@@ -22,8 +22,6 @@ import cn.itcast.utils.MyJdbcUtil;
 
 /**
  * 文本文件保存到数据库中
- * @author Administrator
- *
  */
 public class MyDataDemo1 {
 	@Test
