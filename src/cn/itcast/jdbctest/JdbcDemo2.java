@@ -10,8 +10,6 @@ import org.junit.Test;
 
 /**
  * 设置滚动的结果集
- * @author Administrator
- *
  */
 public class JdbcDemo2 {
 	
