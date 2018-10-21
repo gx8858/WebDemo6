@@ -11,7 +11,6 @@ import java.util.Properties;
 
 /**
  * ²Ù×÷JDBC
- * @author Administrator
  */
 public class MyJdbcUtil {
 	
